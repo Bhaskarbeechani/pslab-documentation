@@ -8,7 +8,7 @@ Pocket Science Labs Documentation
 
 .. toctree::
    :maxdepth: 2
-   :caption: Introduction to PSLab
+   :caption: Introduction to bhaskar PSLab
 
    introduction
    hardware
@@ -18,7 +18,7 @@ Pocket Science Labs Documentation
 
 .. toctree::
    :maxdepth: 2
-   :caption: Science Experiment Tutorials
+   :caption: Science Experiment bh Tutorials
 
    tutorials/oscilloscope
    tutorials/multimeter
