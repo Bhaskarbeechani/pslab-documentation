@@ -38,7 +38,7 @@ Pocket Science Labs Documentation
  
 .. toctree::
    :maxdepth: 2
-   :caption: Advanced PSLab
+   :caption: Advanced PSLab bhaskar
 
    advanced
    programming
